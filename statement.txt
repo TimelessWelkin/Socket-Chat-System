@@ -1,0 +1,3 @@
+新一代的 SOCKET CHAT 正在开发，上一代已被删除，并且以后不会再放 EXE 文件
+
+A new generation of SOCKET CHAT is being developed, the previous generation has been removed, and there will be no more EXE files in the future
