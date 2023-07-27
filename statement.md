@@ -1,3 +1,8 @@
-### 新一代的 `SOCKET CHAT` 正在开发，上一代已被删除
+## 新一代 SOCKET-CHAT 更新说明
 
-### A new generation of `SOCKET CHAT` is being developed, the previous generation has been removed
+* 界面更新：使用 `WINAPI` 搭建新界面
+* 更直观的交互模式 + 更安全的系统秘钥
+
+## 使用请注意
+
+* 使用 `DEV-C++` 的，需要将工具-编译选项-在连接器命令行加入以下命令使用 `-lws2_32 -lgdi32`
